@@ -1,0 +1,48 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bishop's Storehouse
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Deseret
+  rotate: false
+  xy: 140, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Mormonism
+  rotate: false
+  xy: 4, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nauvoo Legion
+  rotate: false
+  xy: 356, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Nauvoo Legion
+  rotate: false
+  xy: 248, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mormon Exodus
+  rotate: false
+  xy: 356, 190
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
