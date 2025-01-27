@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Deseret",
+		"leaderName": "Brigham Young",
+		"adjective": ["Deseretian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Brigham Young",
+
+		"startIntroPart1": "May the light of Zion guide you, blessed Brigham Young, president and governor of Deseret. Founded by settlers from the Church of Jesus Christ of Latter-day Saints, Deseret was an inhospitable land. But your diligence would see it flourish, its center and stronghold situated at the great Salt Lake. Leading with ingenuity and devotion, your industrious character would set the tone for the Mormon church for the century to follow, and you remain today one of her most prestigious leaders.",
+		"startIntroPart2": "Visionary prophet, the countless faithful seek once more a home to call their own. Can you lead your followers to expand westward and settle new lands? Can you cultivate the soils and raise testimonies to your faith? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "God has delivered our enemies into our hands.",
+		"attacked": "We will give ourselves no rest until God avenges the blood of our brethren to the uttermost.",
+		"defeated": "No more, please. We shall move on to more sacred lands.",
+		"introduction": "Greetings there, friend. This is Deseret; the homeland of my people. What righteous place do you hail from?",
+
+		"neutralHello": "Peace be with you, friend.",
+		"hateHello": "...I see too much of this gross ignorance among your people.",
+
+		"afterPeace": "If I can have just a few years of peace, I shall ask no odds of you.",
+		"tradeRequest": "We invite you to enter in and share in His blessings.",
+		"outerColor": [55, 84, 51],
+		"innerColor": [177, 157, 63],
+		"preferredReligion": "Mormonism",
+		"uniqueName": "The Mormon Exodus",
+		"uniqueText": "Civilian units have double movement speed on Desert and Plains terrain. +1 Faith in cities founded on Desert or Plains terrain.",
+		"uniques": [
+			"[Civilian] units gain the [Mormon Exodus] promotion",
+			"[+1 Faith] in cities on [Desert] tiles",
+			"[+1 Faith] in cities on [Plains] tiles"
+		],
+		"cities": ["Salt Lake City", "West Valley City", "Ogden", "Provo", "Cottonwood Heights", "West Jordan", "Fillmore", "St. George",
+			"Grand Junction", "Bountiful", "Draper", "Farmington", "Emigration Canyon", "Battle Creek", "Cedar City", "Manti",
+			"Santaquin", "Spanish Fork", "Brigham City", "Orem", "Lehi", "Ephraim", "Hyrum", "Parowan", "Tooele", "Moab",
+			"Heber City", "Logan", "Taylorsville", "Centerville", "Grantsville", "Wellsville"],
+		"spyNames": ["Ezra", "Orson", "Eliza", "Emmeline", "Amasa", "Jedediah", "Morley", "Willard", "Elmina", "Almon"]
+	}
+]

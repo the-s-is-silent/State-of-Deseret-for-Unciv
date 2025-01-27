@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Bishop's Storehouse",
+		"replaces": "Granary",
+		"uniqueTo": "Deseret",
+		"food": 2,
+		"happiness": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+1 Food] from [Bonus resource] tiles [in this city] <in [Desert] tiles>"
+		],
+		"requiredTech": "Pottery"
+	}
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Brigham Young",
+		"production": 5,
+		"food": 8,
+		"gold": 4,
+		"science": 5,
+		"culture": 8,
+		"happiness": 6,
+		"faith": 9,
+		"military": 5,
+		"aggressive": 5,
+		"declareWar": 2,
+		"commerce": 8,
+		"diplomacy": 6,
+		"loyal": 7,
+		"expansion": 5,
+		"priorities": {
+			"Tradition": 5,
+			"Liberty": 7,
+			"Honor": 4,
+			"Commerce": 5,
+			"Patronage": 4,
+			"Piety": 7,
+			"Rationalism": 5,
+			"Freedom": 10,
+			"Autocracy": 1,
+			"Order": 1
+		}
+	}
+]

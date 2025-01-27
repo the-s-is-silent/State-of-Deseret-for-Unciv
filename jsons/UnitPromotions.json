@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Mormon Exodus",
+		"uniques": ["Double movement in [Desert]", "Double movement in [Plains]"]
+	},
+	{
+		"name": "[Nauvoo Legion] ability",
+		"uniques": ["[+25]% Strength <when fighting in [Desert] tiles>",
+			"[+25]% Strength <when fighting in [Plains] tiles>",
+			"Earn [50]% of the damage done to [Military] units as [Faith]",
+			"Gain [3] [Culture] <upon ending a turn in a [City center] tile>"]
+	}
+]

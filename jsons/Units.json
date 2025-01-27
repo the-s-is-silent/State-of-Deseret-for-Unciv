@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Nauvoo Legion",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Deseret",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"promotions": ["Mormon Exodus", "[Nauvoo Legion] ability"],
+		"attackSound": "shot"
+	}
+]
